@@ -1,0 +1,25 @@
+# CMake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# build path
+/build/
+
+# IDE
+
+# VS Code
+/.vscode/
+
+# CLion
+/.idea/
+/cmake-build-debug/
+/cmake-build-release/
+/cmake-build-minsizerel/
+/cmake-build-relwithdebinfo/
